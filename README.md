@@ -1,5 +1,6 @@
 # python-bookstore
+is an app (project) which demonstrate CRUD operation against various databsae sources (text file, json, list object and sqlite). 
 
-bookstore app projects demonstrating CRUD operation in Python3 using various databases including sqlite (sql), json file, csv file.
+This app are written in Python and in 4 versions (database) - Python list object, text file, json file and sqlite database. 
 
 
